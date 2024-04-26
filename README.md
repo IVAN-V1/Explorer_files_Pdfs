@@ -4,7 +4,7 @@ Configura el tema de tu aplicacion con tema claro y oscuro y guarda el estado de
 
 # Demostracion
 <p align="center">
-  <img src="./files_pdfs" alt="Vista previa del video" />
+  <img src="./demo/files_pdfs.gif" alt="Vista previa del video" />
 </p>
 
 
