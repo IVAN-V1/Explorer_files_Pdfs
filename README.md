@@ -1,4 +1,4 @@
-# Explorardor de archivos pdfs con visualizador 
+# Explorador de archivos pdfs con visualizador 
 Codigo para mostrar lista de archivos pdfs guardados en la carpeta de documentos 
 # Demostracion
 <p align="center">
